@@ -1,0 +1,6 @@
+CREATE TABLE trans (
+	tranID int,
+	value int,
+	investment_account int)
+
+ insert into trans(tranID, value, investment_account) values (10001, 20, 11001)
